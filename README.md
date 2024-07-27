@@ -145,7 +145,7 @@ GetURL is a **URL Shortener Frontend** developed using **React JS** and interact
 ## Author
 
 <p>
-  <img width="50"align="center" src="https://user-images.githubusercontent.com/64230897/222225914-ed0f7818-df07-467c-84a8-865252cdfa8a.jpg" alt="animesh-anand"/><b align="right"> Animesh Anand </b>
+  <b align="right"> Vishesh Jain </b>
 </p> 
 
 
