@@ -1,6 +1,6 @@
 # GetURL - A URL Shortener Frontend
 
-GetURL is a **URL Shortener Frontend** developed using **React JS** and interact with backend built using **Spring Boot** , which is used to shorten the **Long URL** into **Shorten URL**. **[URL-Shortener-Microservice]  provides **REST API** endpoints to interact with.
+GetURL is a **URL Shortener Frontend** developed using **React JS** and interact with backend built using **Expressjs** , which is used to shorten the **Long URL** into **Shorten URL**. **[URL-Shortener-Microservice]  provides **REST API** endpoints to interact with.
 ![react-springboot-mongodb](https://user-images.githubusercontent.com/64230897/222250879-8a4fcffe-2639-4f4a-a54e-8e72fbd16970.png)
 ## Demo
 
