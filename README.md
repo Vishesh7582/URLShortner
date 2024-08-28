@@ -2,11 +2,6 @@
 
 GetURL is a **URL Shortener Frontend** developed using **React JS** and interact with backend built using **Expressjs** , which is used to shorten the **Long URL** into **Shorten URL**. **[URL-Shortener-Microservice]  provides **REST API** endpoints to interact with.
 
-## Demo
-
-[Full Stack Project with **React** and **Spring Boot** where this project is used as a frontend.](https://geturl.codelabs.tech/)
-
-
 ## Run Locally
 
 1. Clone the project
